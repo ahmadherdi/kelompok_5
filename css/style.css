@@ -530,8 +530,8 @@ header {
 }
 
 .banner-text-w3ls {
-    background: url(../images/banner1.jpg) no-repeat bottom;
-    background-size: cover;
+    background: url(../images/bann.jpg) no-repeat bottom;
+    background-size: 100px ;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
